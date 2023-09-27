@@ -11,9 +11,7 @@ Hello! My name is Niharika! Welcome to my GitHub account! Here is some informati
   
 - 🌱 I’m currently learning lower-level programming in C and C++
   
-- 📫 How to reach me: 
-      - LinkedIn: www.linkedin.com/in/niharika-patil1468
-      - Email: nihapatil38@gmail.com (personal), npati2@uic.edu (school)
+- 📫 How to reach me: LinkedIn, Handshake, Email --> all linked in my bio
   
 - ⚡ Fun fact: I played the violin from 5th grade up till my junior year of high school!
 
