@@ -15,5 +15,5 @@ Hello! My name is Niharika! Welcome to my GitHub account! Here is some informati
   
 - ⚡ Fun fact: I played the violin from 5th grade up till my junior year of high school!
 
-Let's connect and get to know each other!
+Please reach out via email to view any prviate repositories. Let's connect and get to know each other!
 
