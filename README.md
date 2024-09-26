@@ -7,7 +7,7 @@ Hello! My name is Niharika! Welcome to my GitHub account! Here is some informati
   
 - 🤝 Interpersonal skills: Quick-learner, engaged, repsectful, enthusiastic
   
-- 🔭 I have recently worked at Northern Trust as a Part Time Data Scientist
+- 🔭 I am currently working as a CS 111 Python Program Design Teaching Assistant! :)
   
 - 🌱 I’m currently learning lower-level programming in C and C++
   
