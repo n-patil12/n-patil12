@@ -7,9 +7,7 @@ Hello! My name is Niharika! Welcome to my GitHub account! Here is some informati
   
 - 🤝 Interpersonal skills: willful, energetic, repsectful, optimistic
   
-- 🔭 I am currently working as a CS 111 Python Program Design Teaching Assistant! :)
-  
-- 🌱 I’m currently learning about UI Design and F#!
+- 🔭 I am currently working as a Python Teaching Assistant! :)
   
 - 📫 How to reach me: LinkedIn, Handshake, Email --> all linked in my bio
   
