@@ -5,7 +5,7 @@ Hello! My name is Niharika! Welcome to my GitHub account! Here is some informati
 
 - 😄 Pronouns: she/her
   
-- 🤝 Interpersonal skills: Quick-learner, engaged, repsectful, enthusiastic
+- 🤝 Interpersonal skills: willful, energetic, repsectful, optimistic
   
 - 🔭 I am currently working as a CS 111 Python Program Design Teaching Assistant! :)
   
@@ -14,6 +14,4 @@ Hello! My name is Niharika! Welcome to my GitHub account! Here is some informati
 - 📫 How to reach me: LinkedIn, Handshake, Email --> all linked in my bio
   
 - ⚡ Fun fact: I played the violin from 5th grade up till my junior year of high school!
-
-Please reach out via email to view any prviate repositories. Let's connect and get to know each other! 
 
