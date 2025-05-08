@@ -1,7 +1,7 @@
 ### Hello Fellow GitHub User 👋
 
 
-Hello! My name is Niharika! Welcome to my GitHub account! Here is some information about me!
+Hello! My name is Niharika! Here is some information about me!
 
 - 😄 Pronouns: she/her
   
