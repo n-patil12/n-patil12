@@ -9,7 +9,7 @@ Hello! My name is Niharika! Here is some information about me!
   
 - 🔭 I am currently working as a Python Teaching Assistant! :)
   
-- 📫 How to reach me: LinkedIn, Handshake, Email --> all linked in my bio
+- 📫 How to reach me: LinkedIn or Email --> both linked in my bio
   
 - ⚡ Fun fact: I played the violin from 5th grade up till my junior year of high school!
 
